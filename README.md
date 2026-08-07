@@ -4,7 +4,16 @@ Recent Computer Science graduate based in Liverpool, United Kingdom, building da
 
 I use **SQL, Power BI and Python** to turn raw data into clear insights, practical dashboards and predictive solutions.
 
-## Featured project
+## Featured projects
+
+### [Lights, Camera, Returns](https://github.com/Qasxm04/lights-camera-returns-power-bi)
+
+A Power BI data story exploring what makes a movie successful through commercial scale, investment efficiency and audience approval.
+
+- Analysed approximately 7,000 eligible films after applying transparent data-quality criteria
+- Compared reported budget, revenue multiples and audience ratings across budget bands
+- Found that larger budgets align with higher revenue but do not consistently produce better ratings
+- Built an accessible, high-contrast report with labels, alt text, intentional reading order and interactive tooltips
 
 ### [Telco Customer Churn Analysis and Prediction](https://github.com/Qasxm04/telco-customer-churn-analysis)
 
@@ -24,3 +33,4 @@ An end-to-end analytics project combining SQL Server, Power BI, Python and machi
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/qasim-ali20/) · [Email](mailto:qasim12ali3@gmail.com)
+
